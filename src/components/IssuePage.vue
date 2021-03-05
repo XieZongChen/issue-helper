@@ -9,7 +9,7 @@
 </template>
 
 <script lang="ts">
-import { ref, defineComponent } from "vue";
+import { defineComponent } from "vue";
 import PageHead from "./PageHead.vue";
 import Intro from "./Intro.vue";
 import IssueForm from "./IssueForm.vue";
