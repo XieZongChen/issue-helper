@@ -11,7 +11,7 @@
     "element3": "^0.0.40",
     "hanabi": "^0.4.0",
     "marked": "^2.0.1",
-    "vue": "^3.0.5"
+    "vue": "^3.0.11"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.4",
@@ -19,6 +19,6 @@
     "@vuedx/typecheck": "^0.6.0",
     "@vuedx/typescript-plugin-vue": "^0.6.0",
     "typescript": "^4.1.3",
-    "vite": "^2.0.5"
+    "vite": "^2.2.4"
   }
 }
