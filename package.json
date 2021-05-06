@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "element3": "^0.0.39",
+    "element3": "^0.0.40",
     "hanabi": "^0.4.0",
     "marked": "^2.0.1",
     "vue": "^3.0.5"
